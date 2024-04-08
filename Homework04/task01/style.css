@@ -1,0 +1,9 @@
+.user, .menu_buttons{
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
+
+.del_button {
+    max-height: 2em;
+}
